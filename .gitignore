@@ -1,0 +1,6 @@
+.idea
+*.iml
+/src
+/out
+design.pattern/.gradle
+design.pattern/out
